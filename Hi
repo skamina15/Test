@@ -1,0 +1,15 @@
+{
+    "version": "1.0",
+    "message_lines": [
+     
+"1-: Add extra",
+"1-: Add extra",
+"1-: Add extra",
+"1-: Add extra",
+
+    ],
+    "telegram_url": "https://t.me/your_telegram_group",
+    "whatsapp_url": "https://chat.whatsapp.com/your_whatsapp_group",
+    "get_pin_url": "https://example.com/get_pin",
+    "correct_pin": "1234"
+}
